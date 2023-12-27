@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KelineYt</string>
+    <string name="rightAddress">The Right Address\nFor Shopping\nAnyday</string>
+    <string name="qulity">It is now very easy to reach the\nbest quality among the\nproducts on the internet!</string>
+
+<!--    Fb Ads-->
+<!--    <string name="facebook_ads">Facebook Ads</string>-->
+<!--    <string name="fb_banner_id" translatable="false">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>-->
+<!--    <string name="fb_interstitial_id" translatable="false">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>-->
+
+<!--    Ads Mob-->
+    <string name="app_id">ca-app-pub-3788765680999841~2759152985</string>
+    <string name="inter_ad_unit_id">ca-app-pub-3788765680999841/3593776406</string>
+
+</resources>
